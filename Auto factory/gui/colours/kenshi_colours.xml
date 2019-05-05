@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Colour" version="1.0">
+     <!-- General -->
+    <Property key="Main" value="#afa68b"/>
+    <Property key="Secondary" value="#140806"/>
+    <Property key="Title" value="#492620"/>
+    <Property key="Bad" value="#59231a"/>
+    <Property key="BadBright" value="#bf4834"/>
+    <Property key="Good" value="#a8b774"/>
+    <Property key="GoodBright" value="#a8b774"/>
+    <Property key="Greyed" value="#444444"/>
+    <Property key="GreyedBright" value="#777777"/>
+    <Property key="Special" value="#14ffdc"/>
+    <Property key="Alert" value="#000000"/>
+
+    <!-- Name tags -->
+    <Property key="NameTagSelected" value="#ffffff"/>
+    <Property key="NameTagUnselected" value="#b3b3b3"/>
+    <Property key="NameTagStealthHidden" value="#4085be"/>
+    <Property key="NameTagStealthAlmostSeen" value="#beb840"/>
+    <Property key="NameTagStealthSeen" value="#be404a"/>
+
+    <!-- Dialogue bubble -->
+    <Property key="DialogueBubbleText" value="#e6e6e6"/>
+
+    <!-- Dialogue window -->
+    <Property key="DialogueTextOption" value="#b3b3b3"/>
+    <Property key="DialogueTextOptionHover" value="#00ff00"/>
+
+    <!-- Ground item's labels -->
+    <Property key="DropItemLabelBackDefault" value="#ffffff"/>
+    <Property key="DropItemLabelBackSelected" value="#66ff66"/>
+    <Property key="DropItemLabelBackSelectedStealing" value="#ff6666"/>
+
+    <Property key="DropItemLabelTextDefault" value="#ffffff"/>
+    <Property key="DropItemLabelTextSelected" value="#66ff66"/>
+    <Property key="DropItemLabelTextSelectedStealing" value="#ff6666"/>
+
+    <!-- Items rating -->
+    <Property key="ItemStandard" value="#e0cccc"/>
+    <Property key="ItemArtifact" value="#0dfceb"/>
+    <Property key="ItemGrade0" value="#666666"/>
+    <Property key="ItemGrade1" value="#d9ccbf"/>
+    <Property key="ItemGrade2" value="#4099b3"/>
+    <Property key="ItemGrade3" value="#66fc80"/>
+    <Property key="ItemGrade4" value="#FFA500"/>
+    <Property key="ItemGrade5" value="#fceb0d"/>
+
+    <!-- Map -->
+    <Property key="MarkerAlly" value="#5cb473"/>
+    <Property key="MarkerNeutral" value="#dfdfdf"/>
+    <Property key="MarkerEnemy" value="#e65139"/>
+    <Property key="MarkerPlayer" value="#8dcdff"/>
+    <Property key="MarkerMovement" value="#79b44b"/>
+</MyGUI>
