@@ -104,23 +104,23 @@
    <Range target="default_morph" min="-100" max="100" name="default_morph"/>
   </Category>
   <Category name="Body">
-	<Range max="120" min="80" name="Height"/>
+	<Range max="120" min="90" name="Height"/>
 	<Range max="120" min="80" name="Frame"/>
 	<Range max="70" min="0" name="Posture"/>
 	<Range max="90" min="45" name="Shoulder set"/>
 	<Range max="80" min="25" name="Neck position"/>
 	<Range max="130" min="80"  mid="100" name="Leg length"/>
 	<Range max="110" min="90" name="Shoulders"/>
-	<Range max="120" min="60"  mid="100" name="Arm bulk"/>
+	<Range max="120" min="60"  mid="90" name="Arm bulk"/>
 	<Range max="120" min="80" name="Hands"/>
 	<Range max="180" min="55"  mid="100" name="Chest"/>
 		<Range max="150" min="25"  mid="85" name="Breast size"/>
 		<Range max="140" min="0"  mid="100" name="Breast height"/>
 		<Range max="125" min="50"  mid="100" name="Breast spacing"/>
-	  <Range max="200" min="60"  mid="100" name="Stomach"/>
+	  <Range max="200" min="60"  mid="90" name="Stomach"/>
 	  <Range max="155" min="15"  mid="100" name="Waist"/>
 	  <Range max="145" min="75"  mid="100" name="Hips"/>
-	  <Range max="100" min="60"  mid="100" name="Legs bulk"/>
+	  <Range max="100" min="60"  mid="90" name="Legs bulk"/>
 	  <Range max="115" min="85"  mid="100" name="Legs shape"/>
 	  <Range max="120" min="80" name="Feet"/>
    <ColourRange name="Skin Tone">

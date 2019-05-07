@@ -108,7 +108,7 @@
 	<Range max="80" min="25" mid="30" name="Neck position"/>
 	<Range max="110" min="70" mid ="96" name="Leg length"/>
 	<Range max="110" min="90"  mid="105" name="Shoulders"/>
-	<Range max="120" min="60"  mid="100" name="Arm bulk"/>
+	<Range max="120" min="60"  mid="90" name="Arm bulk"/>
 	<Range max="120" min="80" name="Hands"/>
 	<Range max="180" min="55" mid="100" name="Chest"/>
 		<Range max="125" min="25"  mid="72" name="Breast size"/>
@@ -117,7 +117,7 @@
 	  <Range max="200" min="60"  mid="80" name="Stomach"/>
 	  <Range max="155" min="15" name="Waist"/>
 	  <Range max="145" min="75"  mid="100" name="Hips"/>
-	  <Range max="100" min="60"  mid="95" name="Legs bulk"/>
+	  <Range max="100" min="60"  mid="85" name="Legs bulk"/>
 	  <Range max="110" min="85" mid="95"  name="Legs shape"/>
 	  <Range max="120" min="80" name="Feet"/>
    <ColourRange name="Skin Tone">

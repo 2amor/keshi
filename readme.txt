@@ -30,6 +30,8 @@ https://github.com/alexliyu7352/keshi/files/3096966/clean.and.speed.zip
 2. 导入游戏的时候切勿重置阵营关系， 否则开关将会不生效， 另外如果购买了枢纽也将会重置枢纽为NPC城市
 
 
+注意：所有版本压缩包都是auto开头的, 如果想要使用最新版本,请选择后续版本号比较大的版本.
+
 反馈问题可以再百度贴吧,3DM论坛或者这个MOD的github上进行反馈。
 
 MOD每次更新于Github，可以从上面下载最新的MOD
