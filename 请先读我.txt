@@ -227,3 +227,63 @@ Slave Master Grande奴隶主人格兰德
 Slave Master Haga奴隶主人哈葛
 Slave Master Ruben奴隶主人罗本
 Slave Master Wada奴隶主人瓦达
+
+
+间谍必杀
+1, 埃斯
+Squin斯昆
+2.格瑞姆
+Black Scratch黑色之爪
+3.卡恩
+Trader's Edge商人的边缘
+4.乔治
+Drifter's Last漂流的终点
+5.塞巴斯汀
+Hive Village蜂巢村庄
+6.沙格瑞姆
+Black Desert City黑砂城
+7,莎莉
+Flotsam Village弗莱斯穆村庄
+8.司盖思
+The Great Fortress格雷特要塞
+Last Stand最后之地
+9.泰玛德格
+Fishing Village渔村
+10.祖鲁
+Stone Rat Village石鼠村庄
+
+通缉令必杀
+悬赏: 埃尔斯,悬赏: 白眉,悬赏: 飞牛,悬赏: 疯子杰佳,悬赏: 格雷洛,悬赏: 蓝眼睛,悬赏: 老格瑞,悬赏: 贫民窟头头,悬赏: 沙漠之王,悬赏: 西蒙,悬赏: 阴影,悬赏:黑龙帮双煞,悬赏:瓦拉蒙,悬赏:驯虫师
+1. Ells埃尔斯
+Sho-Battai肖-巴蒂
+2.White Eyebrow白眉
+沼泽地里的营地
+3.Flying Bull飞牛
+New Kralia新克拉丽亚
+4.Jaegar疯子杰佳
+Spring阳春
+5.Gorrillo格雷洛
+The Old Prison就监狱
+6.Blue Eyes蓝眼睛
+Mourn莫恩
+7.Grey老格瑞
+Spring阳春
+8.Gutterhead贫民窟头头
+Old Control Tower旧控制塔
+9.Dust King沙漠之王
+Dust King Tower沙漠之王高塔
+10.Boss Simion西蒙
+Fort Simion西蒙城堡
+Trader's Edge商人的边缘
+11.Shade阴影
+Swamp Ninja Base史瓦派忍者基地
+Stone Rat Village 石鼠村庄
+12.Buzan布赞
+Tower Of Ninjas忍者之塔
+13.Dimak迪马克
+Tower Of Ninjas忍者之塔
+14.Valamon瓦拉蒙
+方舟ARK
+15.Bugmaster驯虫师
+Throne of the Bugmaster虫之王座
+
