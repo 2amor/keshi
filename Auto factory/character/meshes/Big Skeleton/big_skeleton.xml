@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Editor>
+ <Config>
+  <Category name="Face">
+   <Range max="110" min="90" name="Head size"/>
+   <Range max="110" min="90" name="Head shape"/>
+   <Range max="150" min="65" name="Neck"/>
+   <Range max="150" min="70" name="Neck width"/>
+   <Range max="110" min="90" name="Neck length"/>
+  </Category>
+  <Category name="Body">
+   <Range max="120" min="80" name="Height"/>
+   <Range max="120" min="80" name="Frame"/>
+   <Range max="70" min="0" name="Posture"/>
+   <Range max="90" min="45" name="Shoulder set"/>
+   <Range max="80" min="25" name="Neck position"/>
+   <Range max="115" min="85" name="Leg length"/>
+   <Range max="110" min="90" name="Shoulders"/>
+   <Range max="145" min="70" name="Arm bulk"/>
+   <Range max="120" min="80" name="Hands"/>
+   <Range max="180" min="55" name="Chest"/>
+   <Range max="200" min="70" name="Stomach"/>
+   <Range max="155" min="35" name="Waist"/>
+   <Range max="145" min="75" name="Hips"/>
+   <Range max="140" min="70" name="Legs bulk"/>
+   <Range max="115" min="85" name="Legs shape"/>
+   <Range max="120" min="80" name="Feet"/>
+    <ColourRange name="Skin Tone">
+      <Colour r="255" g="255" b="255" />
+      <Colour r="251" g="219" b="219" />
+      <Colour r="201" g="190" b="180" />
+      <Colour r="137" g="119" b="102" />
+      <Colour r="97" g="73" b="61" />
+      <Colour r="67" g="64" b="69" />
+    </ColourRange>
+  </Category>
+ </Config>
+</Editor>
