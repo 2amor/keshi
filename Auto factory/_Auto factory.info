@@ -5,6 +5,14 @@
   <title>遗失的科技</title>
   <tags>
     <string>Buildings</string>
+    <string>Characters</string>
+    <string>Clothing/Armour</string>
+    <string>Factions</string>
+    <string>Gameplay</string>
+    <string>Items/Weapons</string>
+    <string>Races</string>
+    <string>Research</string>
+    <string>Total Overhaul</string>
   </tags>
   <visibility>0</visibility>
   <lastUpdate xsi:nil="true" />
