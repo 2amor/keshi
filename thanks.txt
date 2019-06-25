@@ -65,6 +65,8 @@ MOD 地图
 
 
 另外本MOD中的部分素材以及脚本取自于以下的MOD， 对这些MOD作者深表感谢！
+我会尽力的联系这些MOD的作者取得授权， 如果您认为这些MOD侵犯了您的权利请联系我删除
+
 Shopping - Let the Cats out of the Bag 让NPC更多购买东西JRPG 美型种族MOD
 Dangerous Hazards 更严酷的气候JRPG 美型种族HK Droid Races (Star Wars: KotOR) 
 Recruit ANYONE v1 招募任何人

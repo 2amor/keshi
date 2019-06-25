@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <id>0</id>
+  <id>1780887485</id>
   <mod>Auto factory</mod>
-  <title>遗失的科技</title>
+  <title>虚空入侵非官方DLC</title>
   <tags>
     <string>Buildings</string>
     <string>Characters</string>
@@ -15,5 +15,5 @@
     <string>Total Overhaul</string>
   </tags>
   <visibility>0</visibility>
-  <lastUpdate xsi:nil="true" />
+  <lastUpdate>2019-06-26T02:53:33.6174323+08:00</lastUpdate>
 </ModData>
