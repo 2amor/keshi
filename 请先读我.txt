@@ -1,17 +1,29 @@
 本MOD基本上整合了目前所有的功能性MOD，因此请把本MOD放入最下方，同时请尽量的不要使用或者开启以下的MOD
-Shopping - Let the Cats out of the Bag 让NPC更多购买东西JRPG 美型种族MOD
-Dangerous Hazards 更严酷的气候JRPG 美型种族HK Droid Races (Star Wars: KotOR) 
+Shopping - Let the Cats out of the Bag 让NPC更多购买东西
+Dangerous Hazards 更严酷的气候
+Age of Ashtron
+JRPG 美型种族
+External Muscle Suit
+Ancient Chinese Weapons(中国古武器)
+Combat Boots
+Skeleton Frame Cover
+Fixing Clipping Issues
+Better Crop Fences
+HK Droid Races (Star Wars: KotOR) 
 Recruit ANYONE v1 招募任何人
 Tame Beasties 招募动物
 Player slave 玩家奴隶AI
-MW_Fu2 HairstylesZombie LandPower up battle by skill 动作mod
+MW_Fu2 Hairstyles
+Zombie Land
+Power up battle by skill 动作mod
 More Combat Animation (WIP) 动作mod
-Military craft (New attacking moves) 动作modNPC Town Guard Mission 城镇保卫任务
+Military craft (New attacking moves) 动作mod
+NPC Town Guard Mission 城镇保卫任务
 Escort Mission 护送保镖任务
 zombie land 僵尸 大 陆
-The LightsaberLively_Player_Town_AI 
+The Lightsaber
+Lively_Player_Town_AI 
 人力发电机
-18+ jrpg_race+lowleg
 Pantsu_pantsu_pantsu
 KawaiiClothes
 Fixing Clipping Issues

@@ -66,23 +66,44 @@ MOD 地图
 
 另外本MOD中的部分素材以及脚本取自于以下的MOD， 对这些MOD作者深表感谢！
 我会尽力的联系这些MOD的作者取得授权， 如果您认为这些MOD侵犯了您的权利请联系我删除
+Hello, thank you for to develop a great MOD, I am the author of 虚空入侵MOD 
 
-Shopping - Let the Cats out of the Bag 让NPC更多购买东西JRPG 美型种族MOD
-Dangerous Hazards 更严酷的气候JRPG 美型种族HK Droid Races (Star Wars: KotOR) 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1780887485&tscn=1561532990]https://steamcommunity.com/sharedfiles/filedetails/?id=1780887485&tscn=1561532990[/url] .
+Because I like this game very much, so want to make up for some shortcomings of this game, 
+So I spent 2 months to make a very large MOD.
+Because I made much changes of your MOD, so I could not provide it in the form of patches, only embedded in my MOD. 
+SO, I therefore request your authorization.
+If you don't mind, I'll add you as a contributor to my MOD.
+If you don't agree, please let me know and I will delete the relevant content.
+
+Thanks！U did a great job! Btw, Can I add you as a friend? I would like to add you as one of the contributors to my MOD
+
+Combat Boots （已获得授权）
+Skeleton Frame Cover （已获得授权）
+External Muscle Suit （已获得授权）
+Ancient Chinese Weapons(中国古武器) （已获得授权）
+Fixing Clipping Issues （已获得授权）
+Better Crop Fences（已获得授权）
+Age of Ashtron（已获得授权）
+Dangerous Hazards 更严酷的气候
+美型种族MOD
+HK Droid Races (Star Wars: KotOR) 
 Recruit ANYONE v1 招募任何人
 Tame Beasties 招募动物
 Player slave 玩家奴隶AI
-MW_Fu2 HairstylesZombie LandPower up battle by skill 动作mod
+MW_Fu2 Hairstyles
+Power up battle by skill 动作mod
 More Combat Animation (WIP) 动作mod
-Military craft (New attacking moves) 动作modNPC Town Guard Mission 城镇保卫任务
+Military craft (New attacking moves) 动作mod
+NPC Town Guard Mission 城镇保卫任务
 Escort Mission 护送保镖任务
 zombie land 僵尸 大 陆
-The LightsaberLively_Player_Town_AI 
+The Lightsaber
+Lively_Player_Town_AI 
 人力发电机
 18+ jrpg_race+lowleg
 Pantsu_pantsu_pantsu
 KawaiiClothes
-Fixing Clipping Issues
 Invisible Dark Leather Shirt
 Synthetic Replacement Limbs
 A2 outfit
