@@ -78,32 +78,41 @@ If you don't agree, please let me know and I will delete the relevant content.
 
 Thanks！U did a great job! Btw, Can I add you as a friend? I would like to add you as one of the contributors to my MOD
 
-Combat Boots （已获得授权）
-Skeleton Frame Cover （已获得授权）
-External Muscle Suit （已获得授权）
-Ancient Chinese Weapons(中国古武器) （已获得授权）
-Fixing Clipping Issues （已获得授权）
-Better Crop Fences（已获得授权）
-Age of Ashtron（已获得授权）
-Dangerous Hazards 更严酷的气候
-美型种族MOD
-HK Droid Races (Star Wars: KotOR) 
-Recruit ANYONE v1 招募任何人
-Tame Beasties 招募动物
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1437125060]Combat Boots （已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1437125060]Skeleton Frame Cover （已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1406192034]External Muscle Suit （已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1435655914]Ancient Chinese Weapons(中国古武器) （已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1678049479]Fixing Clipping Issues （已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1631820298]Better Crop Fences（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1753113694]Age of Ashtron（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1691422256]More Combat Animation（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1712835319]TIHYD_Out on a Limb（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1713408896]Drifter's Leather Hot Pants（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1137685452]TameBeasties（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1509740976&tscn=1561565808]Dangerous Hazards（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1568979835]Power up battle by skill（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1745847829]Chaos Huge (WIP)（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1525537082]Lively Player Town AI（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1389676984]KawaiiClothes（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1701853378]Invisible Dark Leather Shirt（已获得授权）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1689682937&tscn=1561626937]人力発電（已获得授权）[/url]
+
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1605171674]美形種族追加MOD[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1621612272]Military craft (New attacking moves)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1627901182]MW_Fu2 Hairstyles[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1163151622]More Plate Options[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1654739111]JRPG Race Chest Fix[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1595737297]HK Droid Races (Star Wars: KotOR)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1361677042]The Armoured Direwolf[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1686718103]美顔EX [Beautiful face EX][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1590013305]The Lightsaber[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1672832964]Recruit ANYONE v1[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1697540489]Pantsu Pantsu Pantsu (RUS)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1332109973]YoRHa Outfit[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1664370178]NPC Town Guard Mission[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1640604537]Escort Mission[/url]
+
 Player slave 玩家奴隶AI
-MW_Fu2 Hairstyles
-Power up battle by skill 动作mod
-More Combat Animation (WIP) 动作mod
-Military craft (New attacking moves) 动作mod
-NPC Town Guard Mission 城镇保卫任务
-Escort Mission 护送保镖任务
 zombie land 僵尸 大 陆
-The Lightsaber
-Lively_Player_Town_AI 
 人力发电机
-18+ jrpg_race+lowleg
-Pantsu_pantsu_pantsu
-KawaiiClothes
-Invisible Dark Leather Shirt
-Synthetic Replacement Limbs
-A2 outfit
