@@ -109,242 +109,241 @@ E. 根据玩家与不同派系的关系，与玩家团队科技的不同， 会有不同派系种族的流民自动前
 如何占领城市
 首先只有虚空议会盟友才可以占领城市，其次需要在血族使者或者虚空议员傲慢那里开启占领城市功能
 以下为占领城市的要求， 也就是哪些NPC死亡或者被囚禁后城市被占领
-1. 埃德马歌Admag
-'岩魔'艾丝塔Esata the Stone Golem
+1. 阿德马克歌 Admag
+艾萨塔，石魔 Esata the Stone Golem
 濑户 Seto
 执政官1
 
-2.方舟ARK
-瓦洛蒙Valamon
+2.阿尔克 ARK
+瓦拉姆 Valamon
 执政官2
 
-3.坏牙Bad Teeth
-High Inquisitor Seta高阶审判官塞塔
-High Inquisitor Valtena高阶审判官瓦尔特纳
+3.坏牙镇 Bad Teeth
+High Inquisitor Seta 高级审判官塞塔
+High Inquisitor Valtena 高级审判官瓦尔特纳
 执政官3
 
-4. Bark巴克
-Lady Sanda森达女士
+4. 巴克镇 Bark
+三田夫人 Lady Sanda
 执政官4
 
-5.Blister Hill水泡山
-High Inquisitor Seta高阶审判官塞塔
+5.Blister Hill水泡山丘
+High Inquisitor Seta高级审判官塞塔
 High Inquisitor Valtena高阶审判官瓦尔特纳
-Holy Lord Phoenix 皇帝凤凰
+Holy Lord Phoenix 圣主菲尼克斯
 Moll 莫尔
 执政官5
 
-6.Brink边缘之地
-Lady Tsugi津子
+6.Brink边缘镇
+Lady Tsugi津义夫人
 执政官6
 
-7. Catun科坦
-Lord Shiro领主白
+7. Catun 开顿城
+Lord Shiro 四郎大人
 执政官7
 
-8. Clownsteady科隆史莱迪
-Slave Market Master奴隶市场主人
-Slave Mistress Grace奴隶女主人格蕾丝
+8. Clownsteady科隆斯城
+Slave Market Master 奴隶市场主
+Slave Mistress Grace 奴隶主格蕾丝
 执政官8
 
-9. Crab Town克如比城镇
-Crab Queen克如比女皇
+9. Crab Town 螃蟹镇
+Crab Queen 螃蟹女王
 执政官9
 
-10.Crab Village克如比村庄
-瓦洛蒙Valamon
-Crab Queen克如比女皇
+10.Crab Village 螃蟹村
+瓦拉姆 Valamon
+Crab Queen 螃蟹女王
 执政官9
 
-11.Cult Village朝圣者村庄
-The Preacher传道者
-Tinfist小拳头
-Longen龙恩
-Slave Master Grande奴隶主人格兰德
+11.Cult Village 异教镇
+The Preacher 布道者
+Tinfist 锡拳
+Longen 龙恩
+Slave Master Grande 奴隶主格莱德
 执政官11
 
-12. Southern Hive Village南部蜂巢村庄/Southern Hive
-Queen of the South南方女王
+12. Southern Hive Village南部蜂巢族村庄/Southern Hive
+Queen of the South南部蜂巢女王
 执政官12
 
 13.West Hive/西部蜂巢
-The Queen女皇
+The Queen 女皇
 执政官13
 
-14. Drifter's Last漂流的终点
-Lady Merin梅林女士
-Slave Mistress Grace奴隶女主人格蕾丝
+14. Drifter's Last 漂泊终地
+Lady Merin梅林夫人
+Slave Mistress Grace 奴隶主格蕾丝
 执政官14
 
-15. Eyesocket眼圈
-Slave Master Grande奴隶主人格兰德
+15. Eyesocket 眼窝镇
+Slave Master Grande 奴隶主格莱德
 执政官16
 
-16.Fishing Village
-Tinfist小拳头
-Longen龙恩
+16.Fishing Village 打渔村庄
+Tinfist 锡拳
+Longen 龙恩
 执政官17
 
-17. Flats Lagoon
+17. Flats Lagoon 陌生镇
 执政官18
 
-18.Fort Simion西蒙城堡
-Boss Simion西蒙老大
+18.Fort Simion西蒙堡垒
+Boss Simion西蒙大人
 执政官19
 
-19. Grayflayer Village灰色剥皮者村庄
-Big Gray比格 格雷
+19. Grayflayer Village 格雷剥皮人帮之村
+Big Gray 大格雷
 执政官20
 
-20.Heft海夫特
-Emperor Tengu天皇帝
+20.Heft 赫夫特城
+Emperor Tengu 天狗皇帝
 执政官21
 
-21.Heng恒
-Emperor Tengu天皇帝
-Tinfist小拳头
-Longen龙恩
+21.Heng 恒城
+Emperor Tengu 天狗皇帝
+Tinfist 锡拳
+Longen 龙恩
 执政官22
 
-22.Last Stand最后之地
+22.Last Stand 终极要塞
 执政官23
 
-23.Manhunter Base人类猎人 基地
-Slave Market Master奴隶市场主人
-Slave Mistress Grace奴隶女主人格蕾丝
+23.Manhunter Base 猎人帮基地
+Slave Market Master 奴隶市场主
+Slave Mistress Grace 奴隶主格蕾丝
 执政官24
 
-24.New Kralia新克拉丽亚
-Flying Bull飞牛
+24.New Kralia 新卡拉利亚
+Flying Bull 飞牛
 执政官25
 
-25. Okran's Fist奥克兰之拳
-High Inquisitor Valtena高阶审判官瓦尔特纳
-Holy Lord Phoenix 皇帝凤凰
+25. Okran's Fist 奥克兰之拳
+High Inquisitor Valtena 高阶审判官瓦尔特纳
+Holy Lord Phoenix 圣主菲尼克斯
 执政官26
 
 26. 奥克兰之盾
-High Inquisitor Valtena高阶审判官瓦尔特纳
-'岩魔'艾丝塔Esata the Stone Golem
+High Inquisitor Valtena 高阶审判官瓦尔特纳
+艾萨塔，石魔 Esata the Stone Golem
 执政官27
 
 27.Rebirth
 High Inquisitor Valtena高阶审判官瓦尔特纳
-'岩魔'艾丝塔Esata the Stone Golem
-Holy Lord Phoenix 皇帝凤凰
+艾萨塔，石魔 Esata the Stone Golem
+Holy Lord Phoenix 圣主菲尼克斯
 Moll 莫尔
 
-28. Rot腐烂
-Big Gray比格 格雷
-Big Darkbrow比格 达克布洛
-Big Grim比格 格瑞姆
+28. Rot 腐烂镇
+Big Gray 大格雷
+Big Darkbrow 大黑眉
+Big Grim 大格琳
 执政官28
 
-29.Settled Nomads游牧人定居者
-Tinfist小拳头
-Longen龙恩
+29.Settled Nomads 定居流浪者村
+Tinfist 锡拳
+Longen 龙恩
 
-30. Shark砂克
-Big Gray比格 格雷
-Big Darkbrow比格 达克布洛
-Big Grim比格 格瑞姆
+30. Shark 鲨鱼村
+Big Gray 大格雷
+Big Darkbrow 大黑眉
+Big Grim 大格琳
 执政官29
 
-31.Sho-Battai肖-巴蒂
-Lord Nagata长田长官
+31.Sho-Battai 小巴泰镇
+Lord Nagata 永田大人
 执政官30
 
-32.Slave Markets奴隶市场
-Slave Market Master奴隶市场主人
+32.Slave Markets 奴隶市场
+Slave Market Master 奴隶市场主人
 执政官10
 
-33.Spring阳春
-Tinfist小拳头
+33.Spring 泉眼镇
+Tinfist 锡拳
 执政官31
 
-34.Squin斯昆
-'岩魔'艾丝塔Esata the Stone Golem
+34.Squin 斯昆镇
+艾萨塔，石魔 Esata the Stone Golem
 Flying Bull飞牛
 执政官32
 
-35.Stack斯塔克
-'岩魔'艾丝塔Esata the Stone Golem
+35.Stack 斯塔克镇
+艾萨塔，石魔 Esata the Stone Golem
 Flying Bull飞牛
-Holy Lord Phoenix 皇帝凤凰
-High Inquisitor Seta高阶审判官塞塔
+Holy Lord Phoenix 圣主菲尼克斯
+High Inquisitor Seta 高阶审判官塞塔
 执政官33
 
-36. Stoat 鼪
-Emperor Tengu天皇帝
-Lord Inaba稻叶长官
-Yabuta of the Sands金沙的雅布塔
+36. Stoat 白鼬镇
+Emperor Tengu 天狗皇帝
+Lord Inaba 稻羽大人
+Yabuta of the Sands 金沙的雅布塔
 执政官34
 
-37.Trader's Edge商人的边缘
+37.Trader's Edge 商人边缘城
 Emperor Tengu天皇帝
-Tinfist小拳头
-Longen龙恩
-Slave Master Grande奴隶主人格兰德
-Slave Master Haga奴隶主人哈葛
-Slave Master Ruben奴隶主人罗本
-Slave Master Wada奴隶主人瓦达
+Tinfist 锡拳
+Longen 龙恩
+Slave Master Grande 奴隶主格莱德
+Slave Master Haga 奴隶主哈加
+Slave Master Ruben 奴隶主鲁宾
+Slave Master Wada 奴隶主瓦达
 
 
 间谍必杀
 1, 埃斯
-Squin斯昆
+Squin 斯昆
 2.格瑞姆
-Black Scratch黑色之爪
+Black Scratch 黑色划痕镇
 3.卡恩
-Trader's Edge商人的边缘
+Trader's Edge 商人边缘城
 4.乔治
-Drifter's Last漂流的终点
-5.塞巴斯汀
-Hive Village蜂巢村庄
-6.沙格瑞姆
-Black Desert City黑砂城
-7,莎莉
-Flotsam Village弗莱斯穆村庄
-8.司盖思
-The Great Fortress格雷特要塞
-Last Stand最后之地
-9.泰玛德格
-Fishing Village渔村
-10.祖鲁
-Stone Rat Village石鼠村庄
+Drifter's Last 漂泊终地
+5.沙格瑞姆
+Black Desert City 黑色沙漠城
+6,莎莉
+Flotsam Village 浪忍团之村
+7.司盖思
+The Great Fortress 大要塞
+Last Stand 终极要塞
+8.泰玛德格
+Fishing Village 打渔村庄
+9.祖鲁
+Stone Rat Village 石鼠帮村庄
+
 
 通缉令必杀
 悬赏: 埃尔斯,悬赏: 白眉,悬赏: 飞牛,悬赏: 疯子杰佳,悬赏: 格雷洛,悬赏: 蓝眼睛,悬赏: 老格瑞,悬赏: 贫民窟头头,悬赏: 沙漠之王,悬赏: 西蒙,悬赏: 阴影,悬赏:黑龙帮双煞,悬赏:瓦拉蒙,悬赏:驯虫师
-1. Ells埃尔斯
-Sho-Battai肖-巴蒂
+1. Ells 埃尔斯
+Sho-Battai 小巴泰镇
 2.White Eyebrow白眉
 沼泽地里的营地
 3.Flying Bull飞牛
-New Kralia新克拉丽亚
-4.Jaegar疯子杰佳
-Spring阳春
-5.Gorrillo格雷洛
-The Old Prison就监狱
-6.Blue Eyes蓝眼睛
-Mourn莫恩
-7.Grey老格瑞
-Spring阳春
-8.Gutterhead贫民窟头头
-Old Control Tower旧控制塔
-9.Dust King沙漠之王
-Dust King Tower沙漠之王高塔
-10.Boss Simion西蒙
-Fort Simion西蒙城堡
-Trader's Edge商人的边缘
-11.Shade阴影
-Swamp Ninja Base史瓦派忍者基地
-Stone Rat Village 石鼠村庄
-12.Buzan布赞
+New Kralia 新卡拉利亚
+4.Jaegar 疯子杰格
+Spring 泉眼镇
+5.Gorrillo 格里罗
+The Old Prison 旧监狱城
+6.Blue Eyes 蓝眼睛
+Mourn 哀矿镇
+7.Grey 老格瑞
+Spring 泉眼镇
+8.Gutterhead 喙嘴兽首
+Old Control Tower 旧控制塔
+9.Dust King 砂之王
+Dust King Tower 砂之王塔
+10.Boss Simion 西蒙大人
+Fort Simion 西蒙堡垒
+Trader's Edge 商人的边缘
+11.Shade 阴影
+Swamp Ninja Base 沼泽地忍者基地
+Stone Rat Village 石鼠帮村庄
+12.Buzan 伯赞
+Tower Of Ninjas 忍者之塔
+13.Dimak 迪马克
 Tower Of Ninjas忍者之塔
-13.Dimak迪马克
-Tower Of Ninjas忍者之塔
-14.Valamon瓦拉蒙
-方舟ARK
-15.Bugmaster驯虫师
-Throne of the Bugmaster虫之王座
+14.Valamon 瓦拉姆
+ARK 阿尔克
+15.Bugmaster 虫之主
+Throne of the Bugmaster 虫之主王座
 
