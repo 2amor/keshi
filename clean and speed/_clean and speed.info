@@ -4,9 +4,12 @@
   <mod>clean and speed</mod>
   <title>Clean and Speed</title>
   <tags>
+    <string>Environment/Map</string>
     <string>Gameplay</string>
     <string>Graphical</string>
+    <string>GUI</string>
+    <string>Total Overhaul</string>
   </tags>
   <visibility>0</visibility>
-  <lastUpdate>2019-06-26T02:31:20.9224319+08:00</lastUpdate>
+  <lastUpdate>2019-07-07T06:17:59.974061+08:00</lastUpdate>
 </ModData>
